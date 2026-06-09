@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Dados temporários ou sensiveis
+.env
+__pycache__
+/config
+/data
+/logs
+/README.md
